@@ -10,11 +10,11 @@ The **General** tab, provides general information about the project's status as 
 
 ### Check for updates automatically
 
-When an update is available, users are provided a notification and the release notes for the upgrade target. This happens whether automatic updates are enabled or not. If this option is enabled, the update is downloaded and then installed the next time Rancher Desktop is started.
+When an update is available, users are are provided a notification and the release notes for the upgrade target. This happens whether automatic updates are enabled or not. If this option is enabled, the update is downloaded and then installed the next time Rancher Desktop is started.
 
 ### Allow collection of anonymous statistics to help us improve Rancher Desktop
 
-This option allows Rancher Desktop to collect information on how you interact with the Rancher Desktop application. Information such as what workloads you run are not collected.
+This option allows Rancher Desktop toxxxx collect information on how you interact with the Rancher Desktop application. Information such as what workloads you run are not collected.
 
 ## Kubernetes Settings
 
